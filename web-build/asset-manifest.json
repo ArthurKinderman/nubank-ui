@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d1a4a5ae.js",
+    "static/js/223.37fd3920.js": "/static/js/223.37fd3920.js",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/logo.png": "/static/media/logo.ea528c42a28c80ad835e.png",
+    "static/media/mastercard.png": "/static/media/mastercard.b11615f88a3b83eeab30.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.d1a4a5ae.js.map": "/static/js/main.d1a4a5ae.js.map",
+    "223.37fd3920.js.map": "/static/js/223.37fd3920.js.map"
+  },
+  "entrypoints": [
+    "static/js/223.37fd3920.js",
+    "static/js/main.d1a4a5ae.js"
+  ]
+}
